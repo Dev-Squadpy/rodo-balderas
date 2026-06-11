@@ -1,0 +1,30 @@
+# Backups and archives
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Local environment
+.env
+.env.*
+
+# Editor folders
+.vscode/
+.idea/
